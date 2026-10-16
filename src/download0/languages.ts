@@ -5,7 +5,7 @@ export const lang: Record<string, string> = {
   jailbreak: 'Jailbreak',
   payloadMenu: 'Payload Menu',
   config: 'Config',
-  exit: 'Keluar',
+  exit: 'Exit',
   autoLapse: 'Auto Lapse',
   autoPoop: 'Auto Poop',
   autoClose: 'Auto Close',
