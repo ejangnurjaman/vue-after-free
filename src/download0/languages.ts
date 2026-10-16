@@ -2,10 +2,10 @@
 // Detected locale: jsmaf.locale
 
 export const lang: Record<string, string> = {
-  jailbreak: 'Jailbreak',
-  payloadMenu: 'Payload Menu',
+  jailbreak: 'Jelbrek',
+  payloadMenu: 'Menu',
   config: 'Config',
-  exit: 'Exit',
+  exit: 'Keluar',
   autoLapse: 'Auto Lapse',
   autoPoop: 'Auto Poop',
   autoClose: 'Auto Close',
